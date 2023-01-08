@@ -22,9 +22,13 @@ resource : https://pypi.org/project/python-csv/
   .$pip install python-csv
 
 ### follow the Steps to run the linkedin_job_scraper.py
+
   1.open the pycharm IDE and open the file 
+  
     $python linkedin_job_scraper.py.
+    
     Enter the page number 
+    
  ### Look at the output
  ![](Images/output.png)
  
