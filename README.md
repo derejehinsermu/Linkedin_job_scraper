@@ -6,7 +6,7 @@ For each job, the following fields are extracted: Job_title, link, company, Job_
 #1# Download Pycharm IDE: https://www.jetbrains.com/pycharm/download/#section=windows
 
 you can use your favorite text editor or IDE
-![](Images/pycharm.png)
+![](Images/pycharm1.png)
 
 #2.Install Python programming language : https://www.python.org/
 ![](Images/python.png)
@@ -30,8 +30,12 @@ resource : https://pypi.org/project/python-csv/
     Enter the page number 
     
  ### Look at the output
- ![](Images/output.png)
+ ![](Images/output1.png)
  
  ### Open the Linkedin_job_list.csv file and here is what finally we got.
  
-  ![](Images/job_list.png)
+  ![](Images/joblist1.png)
+  
+  Done!
+ 
+  
