@@ -1,10 +1,15 @@
 ## Linkedin_job_scraper
 I am going to scrape public available jobs on Linkedin using headless browser.
 For each job, the following fields are extracted: 
+
       Job_title,
-      link, 
-      company,
+      
+      Link, 
+      
+      Company_name,
+      
       Job_posted time.
+      
 
 #Follow the following steps to install the requirements.
 
